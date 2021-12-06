@@ -5,14 +5,12 @@ subtitle: Barries on Emission Pricing System implementation.
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [question_a]
 ---
 
 **Name**: Jesus Osorio and Angel Montero
-**NetID**: jesusjo2, amonte32
-**Date**: 12/06/2021
 
-Homework 6
+**NetID**: jesusjo2, amonte32
+
 ---
 
 # Emission Pricing Systems
