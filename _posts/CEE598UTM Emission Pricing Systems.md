@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Emission Pricing System
-subtitle: Barries on Emission Pricing System implementation.
+title: Emission Pricing Systems
+subtitle: Barries on Emission Pricing Systems implementation.
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
