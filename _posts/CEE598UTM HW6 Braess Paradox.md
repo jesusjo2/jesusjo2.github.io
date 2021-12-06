@@ -1,4 +1,12 @@
-           
+ ---
+layout: post
+title: Braess Paradox
+subtitle: Can a network perform better with less roads?
+cover-img: /assets/img/congestion.jpg
+thumbnail-img: /assets/img/congestion.png
+share-img: /assets/img/congestion.jpg
+---
+
 # The Braess Paradox
 
 In “‘The cars just disappeared': What happened to the 90,000 cars a day the viaduct carried before it closed?” article in _The Seattle Times_, David Gutman explains that commute times were slightly above average when the Alaskan Way Viaduct was closed but were less than traffic predictions. In the article, Gutman explains that Interstate Highway I-5 passing through Seattle went from 279,000 cars a day to 294,000 cars a day. When comparing the 15,000-car increase on I-5 to the 90,000 cars a day on the viaduct, there are several cars that are missing.
@@ -12,8 +20,9 @@ In “‘The cars just disappeared': What happened to the 90,000 cars a day the 
  If one were to consider a situation in which some users would not travel if travel times on any given route were to exceed 14 minutes, then one could see that routes A and B together would have 1200 cars per hour if route C were to be removed under this situation. With the inclusion of route C, there would be 1800 cars per hours. Hence, one can conclude that Braess paradox is explained by the idea that if there are more and initially better options to go from an origin to a destination, people will use that option until it is equivalent to any other option. When an option is removed, people will resort to the other options available, and some may consider that traveling overall is not worth it.
 
            
+![Network](https://github.com/jesusjo2/jesusjo2.github.io/blob/master/assets/img/Seattle%20Picture.png){: .mx-auto.d-block :}
+**Figure 1**. Example network for understanding Braess Paradox
 
-Figure 1. Example network for understanding Braess Paradox
 
 # References
 
