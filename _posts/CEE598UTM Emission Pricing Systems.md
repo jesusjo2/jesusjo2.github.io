@@ -1,7 +1,16 @@
+---
+layout: post
+title: Emission Pricing System
+subtitle: Barries on Emission Pricing System implementation.
+cover-img: /assets/img/path.jpg
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
+---
+
+
 **Name**: Jesus Osorio and Angel Montero
 **NetID**: jesusjo2, amonte32
-**Date**: 12/06/2021
-Homework 6
+
 ---
 # Emission Pricing Systems
 In today's ever changing technological age, it has become increasingly difficult to propose solutions to current or near-future problems. Even more so because our current challenges do not only involve high technological requirements and investments, but also the public's consensus. Such is the case for environmental emissions in transportation. 
