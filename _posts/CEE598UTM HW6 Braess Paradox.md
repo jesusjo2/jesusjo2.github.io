@@ -2,9 +2,9 @@
 layout: post
 title: Braess Paradox
 subtitle: Can a network perform better with less roads?
-cover-img: /assets/img/congestion.jpg
-thumbnail-img: /assets/img/congestion.png
-share-img: /assets/img/congestion.jpg
+cover-img: /assets/img/cogestion.jpg
+thumbnail-img: /assets/img/cogestion.png
+share-img: /assets/img/cogestion.jpg
 ---
 
 # The Braess Paradox
